@@ -1,2 +1,1 @@
-# pp
-ping pong
+pp
